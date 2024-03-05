@@ -1,8 +1,10 @@
-# Fresh-Fork
-This project is a responsive food and recipe browser built using React and styled with Tailwind CSS. It empowers users to explore diverse culinary delights while providing convenient filtering and sorting functionalities.
+![Untitled design](https://user-images.githubusercontent.com/65420004/180659905-25df4a63-6f62-4a09-85a5-86803d7796b2.jpg)
 
-Key Features:
 
-Extensive Food and Recipe Database: Browse through a comprehensive collection of food and recipe entries, each showcasing clear instructions, enticing descriptions, and beautiful images.
-Price Sorting: Filter and sort recipes based on price range, making it easy to find budget-friendly options for different needs and occasions.
-Responsive Design: Enjoy a seamless user experience regardless of the device you use, from desktops and laptops to tablets and smartphones. Tailwind CSS ensures flexible and adaptive layouts that adjust to various screen sizes.
+# Build A React JS Website Styled With Tailwind CSS
+
+## Run npm install to install the necessary dependencies
+
+ All of the data/images to simulate API responses are located at src/data/data.js
+
+This was a fun little project consisting of React & Tailwind which is a super powerful frontend combination you can used to quickly build websites. In this build I focus on adding a little extra javascript with the array filter method to filter out specific food types and pricing categories.
